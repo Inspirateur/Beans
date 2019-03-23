@@ -1,0 +1,28 @@
+――――――――――――――――――――――――――
+**ROLES**
+*Roles define the structure of the Hunter Association,  the rights and duties of the Role bearer.*
+
+<@&462243333797052418> :  The president of the Hunter Association, he has the final word over the decisions to be taken.
+<@&462243492975083531> : The direct subordinates of the Chairman, they are the highest representants of the Hunter Association, and are responsible for the Hunter Exam. Each Zodiac has a favorite Element, and are expected to own great Pokémons of this element.
+<@&462272340903067659> : Regular members of the association, they specialize into various categories, and can act as they please within the rules of the Hunter Association.
+<@&463003771744550943> : Candidate as their name state are passing the Hunter Exam or preparing to it, attempting to become Hunter.
+
+
+――――――――――――――――――――――――――
+**STARS**
+*Stars are honorific distinction rewarding a Hunter for exceptionnal deeds.*
+
+**★ Single Star** Hunter : This honorific title is attribued to any Hunter that managed to become Champion of each regions.
+**★★ Double Star** Hunter : This title can only be given to Single Star Hunters that caught and fought all the Legendary Pokemons available.
+**★★★ Triple Star** Hunter : A really distinctive title awarded to exceptionnal Hunters, having a Double Star and completing the Pokédex to the extent of what is available is required to become Triple Star Hunter.
+
+
+*Note: when new content is available Hunter with Stars have up to 2 month to get up to date in order to keep their Stars*
+  
+――――――――――――――――――――――――――
+**TITLES**
+*Titles are the nominative distinctions defining a Hunter activity.*
+
+<@&463013717261549569> : Awarded to Hunter achieving 100 wins in PvP
+<@&463015126220406804> : Awarded to Hunter having at least 20 shiny points; 1 OT shiny Pokemon = 3 points, 1 not OT shiny = 1 point; the shinies have to be from different species
+<@&463015231170412544> : Awarded to Hunter owning at least 5 Mega Evolution Gem
